@@ -1,0 +1,2 @@
+# spmwa
+Repozytorium spmwa
