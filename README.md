@@ -1,2 +1,2 @@
 # spmwa
-Repozytorium spmwa
+Repozytorium spmwa :)
